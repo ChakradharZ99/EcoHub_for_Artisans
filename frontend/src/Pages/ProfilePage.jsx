@@ -151,7 +151,6 @@ const ProfilePage = () => {
                                         <p className="text-md text-gray-700 ml-6"><b>Material Required: </b>{satisfiedReq.materialRequired}</p>
                                         <p className="text-md text-gray-700 ml-6"><b>Price: ₹</b>{satisfiedReq.price}</p>
                                         <p className="text-md text-gray-700 ml-6"><b>Quantity: </b>{satisfiedReq.quantity}</p>
-                                        <button className='px-4 py-2 ml-[32rem] mt-24 text-white bg-[#617a4f] rounded-3xl hover:bg-emerald '>Pay For raw materials</button>
                                         </div>
                                     </div>
                                     {/* Display contributions for this satisfied requirement */}
